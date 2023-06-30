@@ -27,3 +27,34 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 
 * __Git, GitHub__ _(in progress)_
 
+## Code example:
+```
+const accordionItem = document.querySelectorAll('.accordion-item');
+
+		accordionItem.forEach(function(el){
+			el.addEventListener('click',showAccordionItemText);
+		});
+
+		function showAccordionItemText(){
+			this.nextElementSibling.classList.toggle('hide');
+		} 
+
+```
+
+## Work experience:
+   _Nothing yet…_
+
+## Education and courses:
+### Education:
+__University:__ National Aerospace University «Kharkiv Aviation Institute», 
+
+Satellites, Engines and Power Plants Engineering 
+
+### Courses: 
+* __FreeCodeCamp__   Course Basic HTML, CSS
+* __RS Schools__  Course «JavaScript/Front-end. Stage 0» _(in progress)_
+
+## Language:
+* __English level – A1__
+* __Russian - Native__ 
+* __Ukrainian - Basic__

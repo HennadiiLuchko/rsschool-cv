@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="Шар_1" shape-rendering="geometricPrecision" image-rendering="optimizeQuality" text-rendering="geometricPrecision"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 3333 3333"
+	 style="enable-background:new 0 0 3333 3333;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#A0AD92;}
+</style>
+<path class="st0" d="M1465,1354h322v165h5c45-81,155-165,318-165c340,0,403,212,403,488v561h-336v-498c0-119-2-271-175-271
+	c-175,0-202,129-202,263v506h-336V1354H1465z M1667,0c460,0,877,187,1179,488c302,302,488,718,488,1179c0,460-187,877-488,1179
+	c-302,302-718,488-1179,488c-460,0-877-187-1179-488C186,2544,0,2128,0,1667c0-460,187-877,488-1179C790,186,1206,0,1667,0z
+	 M2760,573c-280-280-666-453-1093-453S853,293,574,573c-280,280-453,666-453,1093s173,814,453,1093c280,280,666,453,1093,453
+	s814-173,1093-453c280-280,453-666,453-1093S3040,852,2760,573z M1232,1063c0,97-78,175-175,175s-175-78-175-175s78-175,175-175
+	S1232,966,1232,1063z M882,1354h350v1049H882V1354z"/>
+</svg>
